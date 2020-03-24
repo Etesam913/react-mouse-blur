@@ -1,9 +1,9 @@
 {
     "name": "react-mouse-blur",
-    "version": "1.0.4",
-    "description": "A component that allows you to add motion blur to your cursor",
+    "version": "1.0.5",
+    "description": "A react component that allows you to add motion blur to your cursor",
     "main": "./lib/index.js",
-    "license": "MIT",
+    "license": "MPL-2.0",
     "scripts": {
         "build": "webpack"
     },
@@ -12,6 +12,8 @@
         "react": ">=16.8.0",
         "react-dom": ">=16.8.0"
     },
+    "homepage": "https://github.com/Etesam913/react-mouse-blur#readme",
+
     "devDependencies": {
         "babel-core": "^6.21.0",
         "babel-loader": "^7.1.4",
