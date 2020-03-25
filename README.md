@@ -8,11 +8,11 @@ https://www.youtube.com/watch?v=g322U64oSlI
 
 ## 📦 Installation 
 
-```
-// with npm
+```bash
+# with npm
 npm install react-mouse-blur
 
-// with yarn
+# with yarn
 yarn add react-mouse-blur
 ```
 
