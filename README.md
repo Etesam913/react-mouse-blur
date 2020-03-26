@@ -16,7 +16,7 @@ npm install react-mouse-blur
 yarn add react-mouse-blur
 ```
 
-## 🧰 Usage
+## :hammer: Usage
 
 ```jsx
 
